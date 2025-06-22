@@ -45,9 +45,8 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: The sample data is from Google Analytics 4 (GA4), exported to BigQuery, including user activity data from the Google Merchandise Store e-commerce website.  
+- Size: ga4_obfuscated_sample_ecommerce
 
 ### 📊 Data Structure & Relationships  
 
