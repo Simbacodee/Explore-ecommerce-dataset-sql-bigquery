@@ -20,10 +20,17 @@
 ### Objective:
 ### 📖 What is this project about? What Business Question will it solve?
 
-Clearly outline what this project does, what business questions the project will solve. 
+This project explores an e-commerce dataset using SQL on BigQuery to answer specific business questions related to user behavior, traffic source performance, and product-level insights. 
 
-- Provide a brief introduction - Write in bullet point format
-- Point out the main business question
+Analyze key engagement metrics (visit, pageviews, transactions) by month 
+
+Measure bounce rate and revenue breakdown by traffic source
+
+Compare purchasing behavior between user types and by session
+
+Uncover product recommendations based on purchase patterns
+
+Build a conversion funnel from product view → add to cart → purchase
 
 
  _Example:_
