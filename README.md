@@ -1,1 +1,1 @@
-# Explore-ecommerce-dataset-sql-bigquery
+# Explore Ecommerce Datase | SQL, BigQuery
