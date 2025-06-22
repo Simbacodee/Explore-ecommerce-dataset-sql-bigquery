@@ -52,56 +52,86 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 
 ## ⚒️ Main Process
 
-🔍 Calculate total visit, pageview, transaction and revenue for January, February and March 2017 (order by month)
+🔍 Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 
 ⚡Queries
 
-![image](https://github.com/user-attachments/assets/5f08feb7-1b99-45d5-9c81-29107b458ec9)
+![image](https://github.com/user-attachments/assets/f1166d9a-6d9e-447d-81d2-ecf8742e4060)
 
 💡 Queries result  
 
 ![image](https://github.com/user-attachments/assets/64503f79-f4a3-47eb-be5c-a779368c71fc)
 
-🔍 Calculate bounce rate traffic source in July 2017)
+🔍 Bounce rate per traffic source in July 2017 
 
 ⚡Queries
 
-![image](https://github.com/user-attachments/assets/628a909a-55f2-4c96-bf54-a113628247f7)
+![image](https://github.com/user-attachments/assets/d870a107-5663-4f90-8d36-6416f1c49dd2)
 
 💡 Queries result
 
 ![image](https://github.com/user-attachments/assets/50b14315-dba5-4ac7-9633-861dc172abf8)
 
-🔍 Calculate revenue by traffic source by week, by month in June 2017
+🔍 Revenue by traffic source by week, by month in June 2017
 
 ⚡Queries
 
-![image](https://github.com/user-attachments/assets/551a8fb4-163a-4d5d-9033-748b50df4060)
-
+![image](https://github.com/user-attachments/assets/0ef81d6c-55d1-4467-97da-36535d65ac67)
 
 💡 Queries result
 
 ![image](https://github.com/user-attachments/assets/b9740ada-2c20-468d-9a59-c24be96dc3a9)
 
-🔍 Calculate average number of pageviews by purchaser type
+🔍  Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017
 
 ⚡Queries
 
-![image](https://github.com/user-attachments/assets/46aa5537-ca7d-48ab-a6cc-9a3224f4017a)
+![image](https://github.com/user-attachments/assets/99fdb9ee-a8b8-4cce-960f-c2e5d10db408)
 
 💡 Queries result
 
 ![image](https://github.com/user-attachments/assets/5c8a70d4-40e1-4771-9bd6-6612289227de)
 
-🔍 Calculate average number of transactions per user that made a purchase in July 2017
+🔍 Average number of transactions per user that made a purchase in July 2017
 
 ⚡Queries
 
-![image](https://github.com/user-attachments/assets/95291c41-a6cf-47d3-b768-572cf7a9fa3e)
+![image](https://github.com/user-attachments/assets/47c084a6-5023-4dea-883d-fce11077785e)
 
 💡 Queries result
 
 ![image](https://github.com/user-attachments/assets/5c8a70d4-40e1-4771-9bd6-6612289227de)
+
+🔍 Average amount of money spent per session. Only include purchaser data in July 2017
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/2f70597f-7cdf-4079-94da-bd39dd8a79c9)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/9e61817d-1018-4836-85b4-2e2ee37ad20d)
+
+🔍 Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/f6a39000-e02b-463a-912b-a848127e5b9a)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/04d472d1-c1b0-4a30-99a7-42c2d3f4e992)
+
+🔍Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/1672c27d-8cb2-49a0-9066-887de56fe57c)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/1b0812ae-b308-4d11-9bcf-6e5eeba732e0)
+
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
