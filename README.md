@@ -83,7 +83,25 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 
 ![image](https://github.com/user-attachments/assets/b9740ada-2c20-468d-9a59-c24be96dc3a9)
 
+🔍 Calculate average number of pageviews by purchaser type
 
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/46aa5537-ca7d-48ab-a6cc-9a3224f4017a)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/5c8a70d4-40e1-4771-9bd6-6612289227de)
+
+🔍 Calculate average number of transactions per user that made a purchase in July 2017
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/95291c41-a6cf-47d3-b768-572cf7a9fa3e)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/5c8a70d4-40e1-4771-9bd6-6612289227de)
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
