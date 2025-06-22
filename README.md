@@ -48,22 +48,18 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 - Source: The sample data is from Google Analytics 4 (GA4), exported to BigQuery, including user activity data from the Google Merchandise Store e-commerce website.  
 - Size: ga4_obfuscated_sample_ecommerce
 
-### 📊 Data Structure & Relationships  
 ---
 
 ## ⚒️ Main Process
 
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
+🔍 Calculate total visit, pageview, transaction and revenue for January, February and March 2017 (order by month)
 
-- First, explain codes' purpose - what they do
+⚡Queries
 
-- Then how your query/ code & Insert screenshots of your result
+![image](https://github.com/user-attachments/assets/5f08feb7-1b99-45d5-9c81-29107b458ec9)
 
-- Finally, explain your observations/ findings from the results  ts findings
-  
- _Describe trends, key metrics, and patterns._  
+💡 Queries result
+
 
 ---
 
