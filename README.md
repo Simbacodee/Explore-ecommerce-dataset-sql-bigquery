@@ -32,26 +32,14 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 
 - Build a conversion funnel from product view → add to cart → purchase
 
-
- _Example:_
-  This project uses Python to analyze transaction data from KPMG to:
-
-✔️ Identify the behavior in customer's first transaction.  
-✔️ Provide actionable insights to increase retention rate   
- 
-
-
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
+- Data analysts & business intelligence professionals
 
- _Example:_
+- Marketing teams optimizing campaign performance
 
-✔️ Data analysts & business analysts  
-✔️ Decision-makers & stakeholders  
-
-
-
+- Product managers and eCommerce decision-makers
+ 
 ---
 
 ## 📂 Dataset Description & Data Structure  
