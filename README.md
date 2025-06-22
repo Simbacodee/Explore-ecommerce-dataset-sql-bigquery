@@ -1,6 +1,5 @@
 # Explore Ecommerce Datase | SQL, BigQuery
-![KPMG Transaction Analysis](https://github.com/Dorothy-Ho-Vy/Sample_SQL_Python_template/blob/4dee6ff56077b90b1aea82e8517136f7185a77a3/Blue%20White%20Modern%20Payment%20Gateway%20Service%20Twitter%20Post.png.crdownload)
-
+![ChatGPT Image 15_17_32 22 thg 6, 2025](https://github.com/user-attachments/assets/c3229216-4711-472e-a44d-f43257134274)
 👉🏻Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
 # 📊 Project Title: [Your Project Name]  
