@@ -58,7 +58,8 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 
 ![image](https://github.com/user-attachments/assets/5f08feb7-1b99-45d5-9c81-29107b458ec9)
 
-💡 Queries result
+💡 Queries result  
+
 ![image](https://github.com/user-attachments/assets/64503f79-f4a3-47eb-be5c-a779368c71fc)
 
 🔍 Calculate bounce rate traffic source in July 2017)
