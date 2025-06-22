@@ -1,13 +1,11 @@
-# Explore Ecommerce Datase | SQL, BigQuery
+# 📊 Explore Ecommerce Datase | SQL, BigQuery
 ![ChatGPT Image 15_17_32 22 thg 6, 2025](https://github.com/user-attachments/assets/c3229216-4711-472e-a44d-f43257134274)
-👉🏻Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
+  
+Author: Duong Chi Tuan 
+Date: 2025-03  
+Tools Used: SQL
 
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Python  
 
----
 
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
