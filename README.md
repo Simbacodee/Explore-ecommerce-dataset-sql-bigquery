@@ -22,15 +22,15 @@
 
 This project explores an e-commerce dataset using SQL on BigQuery to answer specific business questions related to user behavior, traffic source performance, and product-level insights. 
 
-Analyze key engagement metrics (visit, pageviews, transactions) by month 
+- Analyze key engagement metrics (visit, pageviews, transactions) by month 
 
-Measure bounce rate and revenue breakdown by traffic source
+- Measure bounce rate and revenue breakdown by traffic source
 
-Compare purchasing behavior between user types and by session
+- Compare purchasing behavior between user types and by session
 
-Uncover product recommendations based on purchase patterns
+- Uncover product recommendations based on purchase patterns
 
-Build a conversion funnel from product view → add to cart → purchase
+- Build a conversion funnel from product view → add to cart → purchase
 
 
  _Example:_
