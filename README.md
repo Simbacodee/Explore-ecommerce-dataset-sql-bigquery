@@ -49,33 +49,6 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 - Size: ga4_obfuscated_sample_ecommerce
 
 ### 📊 Data Structure & Relationships  
-
-#### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
-
-#### 2️⃣ Table Schema & Data Snapshot  
-
-Table 1: Products Table  
-
-👉🏻 Insert a screenshot of table schema 
-
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
-
- _Example:_
-
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema.
-
-
 ---
 
 ## ⚒️ Main Process
