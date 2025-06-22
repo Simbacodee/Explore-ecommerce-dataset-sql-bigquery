@@ -59,6 +59,28 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 ![image](https://github.com/user-attachments/assets/5f08feb7-1b99-45d5-9c81-29107b458ec9)
 
 💡 Queries result
+![image](https://github.com/user-attachments/assets/64503f79-f4a3-47eb-be5c-a779368c71fc)
+
+🔍 Calculate bounce rate traffic source in July 2017)
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/628a909a-55f2-4c96-bf54-a113628247f7)
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/50b14315-dba5-4ac7-9633-861dc172abf8)
+
+🔍 Calculate revenue by traffic source by week, by month in June 2017
+
+⚡Queries
+
+![image](https://github.com/user-attachments/assets/551a8fb4-163a-4d5d-9033-748b50df4060)
+
+
+💡 Queries result
+
+![image](https://github.com/user-attachments/assets/b9740ada-2c20-468d-9a59-c24be96dc3a9)
 
 
 ---
