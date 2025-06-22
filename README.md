@@ -135,10 +135,9 @@ This project explores an e-commerce dataset using SQL on BigQuery to answer spec
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
+✔️ Optimize marketing spend on traffic sources that generate higher revenue (e.g., direct or referral)  
+✔️ Focus on improving the bounce rate of underperforming channels to retain more visitors  
+✔️ Encourage users with high pageviews but low purchase rate to convert (e.g., remarketing strategies)  
+✔️ Highlight frequently co-purchased products like [Product X] in product pages to boost cross-sell  
+✔️ Track cohort drop-offs from view → add to cart → purchase to optimize conversion funnel
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
-
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
