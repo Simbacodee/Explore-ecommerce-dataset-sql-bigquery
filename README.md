@@ -1,10 +1,10 @@
-# 📊 Explore Ecommerce Datase | SQL, BigQuery 
+# 📊 Explore Ecommerce Dataset | SQL, BigQuery 
 
 ![ChatGPT Image 15_17_32 22 thg 6, 2025](https://github.com/user-attachments/assets/c3229216-4711-472e-a44d-f43257134274)
-  
-Author: Duong Chi Tuan 
-Date: March 2025  
-Tools Used: SQL
+
+**Author**: Duong Chi Tuan  
+**Date**: March 2025  
+**Tools Used**: SQL
 
 ---
 
