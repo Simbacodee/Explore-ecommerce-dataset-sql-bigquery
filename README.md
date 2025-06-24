@@ -1,4 +1,4 @@
-# 📊 Explore Ecommerce Dataset | SQL, BigQuery 
+# 📊 E-commerce User Behavior & Funnel Analysis (SQL – BigQuery)
 
 ![ChatGPT Image 15_17_32 22 thg 6, 2025](https://github.com/user-attachments/assets/c3229216-4711-472e-a44d-f43257134274)
 
