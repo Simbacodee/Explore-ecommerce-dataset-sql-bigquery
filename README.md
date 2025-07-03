@@ -43,7 +43,7 @@ This project analyzes **user behavior** on an **e-commerce website**, using the 
 ### 📌 Data Source  
 - Source: The sample data is from Google Analytics 4 (GA4), exported to BigQuery, including user activity data from the Google Merchandise Store e-commerce website.  
 - Size: ga4_obfuscated_sample_ecommerce
-
+🔗 [Access the dataset here](https://console.cloud.google.com/bigquery?inv=1&invt=Ab1wuA&project=project-sql-453615&ws=!1m10!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801!1m4!1m3!1sproject-sql-453615!2sbquxjob_1998eeea_197d018f89f!3sUS)
 ---
 
 ## ⚒️ Main Process
