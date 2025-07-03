@@ -23,9 +23,13 @@
 This project analyzes **user behavior** on an **e-commerce website**, using the **Google Analytics sample dataset** and **SQL on BigQuery**. The goal is to uncover customer behavior trends and assess the effectiveness of **marketing channels** in attracting and converting users. The analysis begins by measuring key **engagement metrics** such as **visits**, **pageviews**, and **transactions** on a **monthly basis** to understand user interaction over time. It then evaluates the **bounce rate** and **revenue contribution** of each **traffic source**, helping to identify the **most valuable and high-quality channels** in terms of both traffic and revenue.
  
 - Analyze key **engagement metrics** (**visit**, **pageviews**, **transactions**) by **month**
+  
 - Measure **bounce rate** and **revenue breakdown** by **traffic source**
+  
 - Compare **purchasing behavior** between **user types** and by **session**
+  
 - Uncover **product recommendations** based on **purchase patterns**
+  
 - Build a **conversion funnel** from **product view → add to cart → purchase**
 
 ### 👤 Who is this project for?  
@@ -175,20 +179,31 @@ From January to March 2017, there was a consistent increase in both **add-to-car
 ### 📊 Insights (Based on AICCR Funnel Analysis)
 
 - **Google Search** and **Direct** are the top-performing traffic sources, driving the highest number of visits with relatively low bounce rates — indicating high-quality traffic.
+  
 - Channels like **YouTube**, **t.co**, and **Facebook** have extremely high bounce rates (above 65%), suggesting users from these sources often leave without interacting.
+  
 - **Non-purchasing users view 2–3 times more pages than purchasing users**, which implies strong browsing behavior but low conversion intent.
+  
 - Both **add-to-cart rate** and **purchase rate** steadily increased from **January to March**, indicating improved engagement or optimization efforts.
+  
 - The **purchase rate** rose from **8.31% → 12.64%**, reflecting a notable improvement in conversion.
+  
 - **Average revenue per purchasing session is around $43.86**, indicating high transaction value per converted user.
+  
 - Customers who bought the **YouTube Men's Vintage Henley** frequently purchased other merchandise products, signaling strong **cross-sell potential**.
 
 ### ✅ Recommendations
 
 - **Invest more in Google Search and Direct traffic channels**, as they deliver the most valuable and engaged users.
+  
 - **Optimize landing pages for high-bounce channels** (e.g., YouTube, Facebook) by improving relevance, UX, and load speed.
+  
 - **Implement remarketing strategies** for high-engagement, non-converting users — offering targeted promotions or follow-up emails.
+  
 - **Introduce product bundling or cross-sell features**, especially for items like the Henley shirt which often accompany other purchases.
+  
 - **A/B test key areas** such as product detail layouts, call-to-action buttons, and checkout steps to increase add-to-cart and purchase rates.
+  
 - **Launch loyalty programs or retention email flows** to encourage repeat purchases from high-value customers.
 - **Monitor funnel performance monthly**, especially metrics like product views, add-to-cart rate, and conversion rate, to stay responsive to behavior shifts.
 
