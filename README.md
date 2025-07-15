@@ -20,17 +20,17 @@
 ### Objective:
 ### 📖 What is this project about? What Business Question will it solve?
 
-This project analyzes **user behavior** on an **e-commerce website**, using the **Google Analytics sample dataset** and **SQL on BigQuery**. The goal is to uncover customer behavior trends and assess the effectiveness of **marketing channels** in attracting and converting users. The analysis begins by measuring key **engagement metrics** such as **visits**, **pageviews**, and **transactions** on a **monthly basis** to understand user interaction over time. It then evaluates the **bounce rate** and **revenue contribution** of each **traffic source**, helping to identify the **most valuable and high-quality channels** in terms of both traffic and revenue.
+This project analyzes **user behavior** on an **e-commerce website**, using the Google Analytics sample dataset and SQL on BigQuery. The goal is to uncover customer behavior trends and assess the effectiveness of marketing channels in attracting and converting users. The analysis begins by measuring key engagement metrics such as **visits**, **pageviews**, and **transactions** on a monthly basis to understand user interaction over time. It then evaluates the **bounce rate** and **revenue contribution** of each **traffic source**, helping to identify the most valuable and high-quality channels in terms of both traffic and revenue.
  
-- Analyze key **engagement metrics** (**visit**, **pageviews**, **transactions**) by **month**
+- Analyze key **engagement metrics** (**visit**, **pageviews**, **transactions**) by month
   
-- Measure **bounce rate** and **revenue breakdown** by **traffic source**
+- Measure **bounce rate** and revenue breakdown by **traffic source**
   
-- Compare **purchasing behavior** between **user types** and by **session**
+- Compare **purchasing behavior** between **user types** and by session
   
-- Uncover **product recommendations** based on **purchase patterns**
+- Uncover product recommendations based on purchase patterns
   
-- Build a **conversion funnel** from **product view → add to cart → purchase**
+- Build a conversion funnel from product view → add to cart → purchase
 
 ### 👤 Who is this project for?  
 
