@@ -176,7 +176,7 @@ From January to March 2017, there was a consistent increase in both **add-to-car
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
-### 📊 Insights (Based on AICCR Funnel Analysis)
+### 📊 Insights 
 
 - **Google Search** and **Direct** are the top-performing traffic sources, driving the highest number of visits with relatively low bounce rates — indicating high-quality traffic.
   
